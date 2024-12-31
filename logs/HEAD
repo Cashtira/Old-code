@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 34bbf5d8da9e6ed465632c33e30ff8b8e8959f3f Cashtira <22520599@gm.uit.edu.vn> 1728853771 +0700	clone: from https://github.com/Cashtira/backend-hotel.git
+34bbf5d8da9e6ed465632c33e30ff8b8e8959f3f 59968e9aa2d4d29fff4e1c7a709b897ff9a33181 Cashtira <22520599@gm.uit.edu.vn> 1728853780 +0700	checkout: moving from main to kha
+59968e9aa2d4d29fff4e1c7a709b897ff9a33181 34bbf5d8da9e6ed465632c33e30ff8b8e8959f3f Cashtira <22520599@gm.uit.edu.vn> 1728853810 +0700	checkout: moving from kha to main
+34bbf5d8da9e6ed465632c33e30ff8b8e8959f3f 59968e9aa2d4d29fff4e1c7a709b897ff9a33181 Cashtira <22520599@gm.uit.edu.vn> 1728853823 +0700	checkout: moving from main to kha
+59968e9aa2d4d29fff4e1c7a709b897ff9a33181 fd6bda52dfeb15ff31beeb81cd959a5caff84f18 Cashtira <22520599@gm.uit.edu.vn> 1728853874 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+fd6bda52dfeb15ff31beeb81cd959a5caff84f18 95c95a986bdcb0324c302455218a4544e339a3a9 Cashtira <22520599@gm.uit.edu.vn> 1728854494 +0700	commit: Update test (cns)
+95c95a986bdcb0324c302455218a4544e339a3a9 34bbf5d8da9e6ed465632c33e30ff8b8e8959f3f Cashtira <22520599@gm.uit.edu.vn> 1729859596 +0700	checkout: moving from kha to main
+34bbf5d8da9e6ed465632c33e30ff8b8e8959f3f d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1729859645 +0700	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+d730b6ad2e860c21386e3794e85def085e555c88 95c95a986bdcb0324c302455218a4544e339a3a9 Cashtira <22520599@gm.uit.edu.vn> 1729859675 +0700	checkout: moving from main to kha
+95c95a986bdcb0324c302455218a4544e339a3a9 d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1729859747 +0700	checkout: moving from kha to main
+d730b6ad2e860c21386e3794e85def085e555c88 95c95a986bdcb0324c302455218a4544e339a3a9 Cashtira <22520599@gm.uit.edu.vn> 1729859927 +0700	checkout: moving from main to kha
+95c95a986bdcb0324c302455218a4544e339a3a9 d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1729859956 +0700	checkout: moving from kha to main
+d730b6ad2e860c21386e3794e85def085e555c88 95c95a986bdcb0324c302455218a4544e339a3a9 Cashtira <22520599@gm.uit.edu.vn> 1729859989 +0700	checkout: moving from main to kha
+95c95a986bdcb0324c302455218a4544e339a3a9 ea419b90da2f50c5cafdbc563487ea13e39f7d07 Cashtira <22520599@gm.uit.edu.vn> 1729861002 +0700	commit: Update Clone KV
+ea419b90da2f50c5cafdbc563487ea13e39f7d07 1749dc1023d06e2bd1ef4f529e1266310b697461 Cashtira <22520599@gm.uit.edu.vn> 1729864370 +0700	commit: afads
+1749dc1023d06e2bd1ef4f529e1266310b697461 1749dc1023d06e2bd1ef4f529e1266310b697461 Cashtira <22520599@gm.uit.edu.vn> 1732692240 +0700	reset: moving to HEAD
+1749dc1023d06e2bd1ef4f529e1266310b697461 d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1732692241 +0700	checkout: moving from kha to main
+d730b6ad2e860c21386e3794e85def085e555c88 d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1732692302 +0700	reset: moving to HEAD
+d730b6ad2e860c21386e3794e85def085e555c88 1749dc1023d06e2bd1ef4f529e1266310b697461 Cashtira <22520599@gm.uit.edu.vn> 1732692303 +0700	checkout: moving from main to kha
+1749dc1023d06e2bd1ef4f529e1266310b697461 d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1732692313 +0700	checkout: moving from kha to main
+d730b6ad2e860c21386e3794e85def085e555c88 1749dc1023d06e2bd1ef4f529e1266310b697461 Cashtira <22520599@gm.uit.edu.vn> 1732692318 +0700	checkout: moving from main to kha
+1749dc1023d06e2bd1ef4f529e1266310b697461 d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1732693558 +0700	checkout: moving from kha to main
+d730b6ad2e860c21386e3794e85def085e555c88 1749dc1023d06e2bd1ef4f529e1266310b697461 Cashtira <22520599@gm.uit.edu.vn> 1732693563 +0700	checkout: moving from main to kha
+1749dc1023d06e2bd1ef4f529e1266310b697461 d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1732693576 +0700	checkout: moving from kha to main
+d730b6ad2e860c21386e3794e85def085e555c88 66642f5c563f12397a0f0d856e45df91b75567ba Cashtira <22520599@gm.uit.edu.vn> 1735129011 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+66642f5c563f12397a0f0d856e45df91b75567ba 563c4de5fbc1e59d94be0a8836b534650dbf9437 Cashtira <22520599@gm.uit.edu.vn> 1735302556 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward

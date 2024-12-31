@@ -1,0 +1,10 @@
+34bbf5d8da9e6ed465632c33e30ff8b8e8959f3f 78735173eb65d17ce09642f3ba31bac40ede4fd3 Cashtira <22520599@gm.uit.edu.vn> 1728853883 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: forced-update
+78735173eb65d17ce09642f3ba31bac40ede4fd3 1c2b0a31bec89b4a26a95fd4f5edc791c67b672b Cashtira <22520599@gm.uit.edu.vn> 1729431491 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+1c2b0a31bec89b4a26a95fd4f5edc791c67b672b 1e8b1aa40faaa458e8425b53c89f5f7e747d5b7f Cashtira <22520599@gm.uit.edu.vn> 1729859627 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+1e8b1aa40faaa458e8425b53c89f5f7e747d5b7f d730b6ad2e860c21386e3794e85def085e555c88 Cashtira <22520599@gm.uit.edu.vn> 1732693564 +0700	update by push
+d730b6ad2e860c21386e3794e85def085e555c88 1863dab0581feacd043ce646e222c9905347a60e Cashtira <22520599@gm.uit.edu.vn> 1734856390 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+1863dab0581feacd043ce646e222c9905347a60e 03887423320b1ef8a50e2ddf0747bd11440e1f3d Cashtira <22520599@gm.uit.edu.vn> 1734858299 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: forced-update
+03887423320b1ef8a50e2ddf0747bd11440e1f3d 5132c8d5554e3c3c9cb65a95fd84e79745f69291 Cashtira <22520599@gm.uit.edu.vn> 1734860205 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+5132c8d5554e3c3c9cb65a95fd84e79745f69291 66642f5c563f12397a0f0d856e45df91b75567ba Cashtira <22520599@gm.uit.edu.vn> 1735129010 +0700	pull --ff --recurse-submodules --progress origin: fast-forward
+66642f5c563f12397a0f0d856e45df91b75567ba 563c4de5fbc1e59d94be0a8836b534650dbf9437 Cashtira <22520599@gm.uit.edu.vn> 1735302550 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+563c4de5fbc1e59d94be0a8836b534650dbf9437 0485a2dc8bb80d1686b854afe6fab602d07e891b Cashtira <22520599@gm.uit.edu.vn> 1735641749 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
